@@ -11,6 +11,7 @@ La información quedará registrada en tres tablas, Person, User y Phone.
 
 #### Repository: Interfaz que interactua con la base de datos.
 
+### Se adjunta Diagrama.
 
 Al ejecutar la aplicación desde el IDE o ejecutando el jar, se deberá ingresar desde la siguiente url:
 http://localhost:8090/user 
